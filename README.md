@@ -57,7 +57,8 @@ For reproducible builds in CI, use the included GitHub Actions workflow.
 
 ## Screenshots
 
-Add screenshots here.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1f142634-d8f4-4c1e-838e-08284a2b7f25" />
+
 
 ## About
 
